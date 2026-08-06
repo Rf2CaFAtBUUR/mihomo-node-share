@@ -1,6 +1,6 @@
-# 云享免费节点分享 | 桌面版
+# Mihomo Node Share
 
-> 这份镜像更偏桌面客户端，Clash、Mihomo、v2rayN 用户会更顺手。
+> A Mihomo-centered repository for readers who care more about import compatibility and client-side refresh behavior.
 
 ## 今日获取入口
 
@@ -22,7 +22,7 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。统一文章入口后，桌面端和移动端都能查到相同信息。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。把入口统一到正文后，Mihomo、Clash 和 V2Ray 可以共用同一份更新记录。
 
 ## 快速入口
 
@@ -35,7 +35,7 @@ https://free.yunxiang.lol/posts/nodes/2026-08-06
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看桌面教程，再复制当天文章里的地址。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。Mihomo 用户可以先看当天文章，再配合导入说明完成更新。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 
